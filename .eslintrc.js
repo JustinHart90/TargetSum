@@ -24,7 +24,7 @@ module.exports = {
     'linebreak-style': ['error', 'unix'],
     quotes: ['error', 'single'],
     semi: ['error', 'always'],
-    'no-console': ['warn', { allow: ['clear', 'info', 'error', 'dir', 'trace'] }],
+    // 'no-console': ['warn', { allow: ['clear', 'info', 'error', 'dir', 'trace'] }],
     curly: 'error',
     'no-else-return': 'error',
     'no-unneeded-ternary': 'error',
